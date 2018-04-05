@@ -63,5 +63,7 @@ typings/
 
 #Config Variables
 config/db.js
+#ship model sample Constructor
+.sample shipmodel.js
 
 # End of https://www.gitignore.io/api/node
