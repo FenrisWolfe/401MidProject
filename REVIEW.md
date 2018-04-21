@@ -21,7 +21,9 @@ Tests:       49 failed, 8 passed, 57 total
 ```
 
 If I run something like the user test by itself, it runs fine, but all
-together they seem to get messed up.
+together they seem to get messed up. Look into this and see if you can
+get them all to run at once. I'm confident your tests are much better
+than they appear in the report I've copied here.
 
 ## Style
 The structure of `server.js` is clean and simple.
